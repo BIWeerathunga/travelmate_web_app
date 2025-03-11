@@ -19,7 +19,7 @@ APIs: Google Maps API, OpenWeather API
 # Clone the repository
 git clone https://github.com/BIWeerathunga/travelmate_web_app.git
 
-Navigate to root project
+# Navigate to root project
 cd travelmate_web_app  
 
 # Install backend dependencies
@@ -36,7 +36,7 @@ npm install
 npm install react-router-dom  
 
 # Start the development servers
-cd client && npm start 
+cd client && npm start /
 cd server && npm start  
 
 
